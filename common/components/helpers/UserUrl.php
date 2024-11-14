@@ -11,7 +11,7 @@ class UserUrl extends Url
     /**
      * Путь к папке uploads относительно webroot
      */
-    public const UPLOADS = '/uploads/global';
+    public const UPLOADS = '/uploads';
 
     /**
      * Список GET параметров для запоминания
